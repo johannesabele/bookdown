@@ -1,6 +1,6 @@
 --- 
 title: "PRESS Methodology note"
-author: "Johannes Abele"
+author: "Johannes Abeleeee"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
